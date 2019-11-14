@@ -1,0 +1,19 @@
+.footer {
+  background-color: #2C2B2B;
+  padding: 30px 0px;
+  text-align: center;
+}
+
+.footer i {
+  font-size: 40px;
+  color: #75DF89;
+}
+
+.footer p {
+  color: white;
+  opacity: 0.3;
+}
+
+.footer p i {
+  opacity: 1;
+}
